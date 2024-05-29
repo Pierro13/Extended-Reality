@@ -381,6 +381,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/CharacterControllerGravity.cs"
 "Assets/Lets Make a VR Game/Oculus Hands/Scripts/AnimateHandOnInput.cs"
 "Assets/Lets Make a VR Game/UI 3D Examples/UI_3D/Scripts/ClawMachine/ClawMachine.cs"
 "Assets/Lets Make a VR Game/UI 3D Examples/UI_3D/Scripts/ClawMachine/FlippyDoor.cs"
@@ -391,6 +392,7 @@
 "Assets/Lets Make a VR Game/UI 3D Examples/UI_3D/Scripts/XRLever.cs"
 "Assets/Lets Make a VR Game/UI 3D Examples/UI_3D/Scripts/XRPushButton.cs"
 "Assets/Lets Make a VR Game/UI 3D Examples/UI_3D/Scripts/XRSlider.cs"
+"Assets/PlayerGravity.cs"
 -langversion:9.0
 
 /deterministic
