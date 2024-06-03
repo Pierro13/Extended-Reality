@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: d7dab91611b3a82458a11fc0697b2576
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6c273ba7fd97f3542adfca78f52d3638, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 34e52c9ef3bb6ec419bca490a90db62c, type: 2}

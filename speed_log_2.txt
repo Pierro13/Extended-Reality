@@ -1,0 +1,1975 @@
+Speed along Y axis: -0,1960754
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -0,3921509
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -0,4570358
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: 0
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: 0
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: 0
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -0,1162368
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -0,2296311
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -0,3485638
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -0,4765283
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -0,5883508
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -0,6815691
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -0,7843276
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -0,8895669
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -1,066102
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+
+
+
+Début de la chute
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:24)
+
+
+
+
+Speed along Y axis: -1,240231
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -1,352199
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -1,448727
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -1,561141
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -1,688345
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -1,80735
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -1,929346
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -2,039443
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -2,163165
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -2,282383
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -2,403233
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -2,524064
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -2,638074
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -2,907134
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -3,031065
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -3,185793
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -3,294699
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -3,420309
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -3,541621
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -3,683788
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -3,82593
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -3,952706
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -4,071959
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -4,186224
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -4,3473
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -4,471095
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -4,58044
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -4,681474
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -4,786128
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -4,91936
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -5,03943
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -5,155852
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -5,261896
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -5,358038
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -5,474114
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -5,60758
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -5,726669
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -5,868603
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -5,964647
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -6,095386
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -6,273505
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -6,395524
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -6,501029
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -6,599399
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -6,696835
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -6,815393
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -6,918775
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -7,023526
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -7,143479
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -7,248168
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -7,38236
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -7,479964
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -7,591001
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -7,709765
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -7,822995
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -7,924687
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -8,035851
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -8,13083
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -8,260687
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -8,376558
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -8,481792
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -8,586603
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -8,688706
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -8,797393
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -8,958847
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -9,071076
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -9,200752
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -9,310211
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -9,41249
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -9,527697
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -9,640626
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -9,741846
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -9,845035
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -9,958874
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -10,06255
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -10,18551
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -10,2955
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -10,44247
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -10,54954
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -10,65779
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -10,78411
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -10,90161
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -11,0123
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -11,11577
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -11,248
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -11,36475
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -11,4859
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -11,59471
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -11,70126
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -11,81135
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -11,95474
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -12,06365
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -12,17317
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -12,29726
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -12,40355
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -12,51074
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -12,61281
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -12,72539
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -12,86082
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -12,96686
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -13,07666
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -13,17402
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -13,31428
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -13,47456
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -13,58473
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -13,69124
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -13,78984
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -13,91456
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -14,03229
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -14,1429
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -14,26098
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -14,37376
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -14,48219
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -14,58702
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -14,70656
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -14,81429
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -14,96145
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -15,0582
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -15,15555
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -15,2895
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -15,39597
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -15,49337
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -15,60627
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -15,73415
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -15,8415
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -15,95764
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -16,08618
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -16,20081
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -16,33349
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -16,48905
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -16,61035
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -16,72061
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -16,82614
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -16,93396
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -17,04269
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -17,14683
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -17,27698
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -17,38858
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -17,49285
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -17,59541
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -17,70192
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -17,81409
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -18,01483
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -18,12175
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -18,22525
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -18,3296
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -18,44785
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -18,57133
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -18,70425
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -18,82867
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -18,95197
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -19,06755
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -19,17789
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -19,31513
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -19,45783
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -19,569
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -19,67107
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -19,79295
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -19,92469
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -20,02937
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -20,13383
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -20,2329
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -20,32867
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -20,42784
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -20,53428
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -20,6343
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -20,74234
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -20,84043
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -20,98211
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -21,09679
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -21,21077
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -21,33805
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -21,44467
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -21,54766
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -21,64865
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -21,7513
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -21,86741
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -21,99402
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -22,10419
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -22,20321
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -22,30602
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -22,40891
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -22,56725
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -22,6865
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -22,78685
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -22,89079
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -22,99338
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -23,099
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -23,21454
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -23,33716
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -23,43119
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -23,52603
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -23,62506
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -23,72197
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -23,82681
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -23,93282
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -24,07744
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -24,17403
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -24,27071
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -24,39539
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -24,49771
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -24,5988
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -24,69346
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -24,78806
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -24,88792
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -24,9816
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -25,12471
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -25,22952
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -25,35623
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -25,45833
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -25,59953
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -25,7098
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -25,81615
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -25,91834
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -26,021
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -26,11572
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -26,21669
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -26,30781
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -26,4095
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -26,52375
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -26,62843
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -26,72115
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -26,8174
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -26,91257
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -27,00753
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -27,17957
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -27,27517
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -27,3929
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -27,49434
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -27,61686
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -27,73602
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -27,8392
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -27,94414
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -28,05096
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -28,14819
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -28,24864
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -28,37005
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -28,47342
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -28,58025
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -28,71765
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -28,81674
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -28,91586
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -29,04437
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -29,14903
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -29,24411
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -29,36726
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -29,45725
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -29,57588
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -29,67411
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -29,77969
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -29,883
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -29,98768
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -30,08217
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -30,2268
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -30,33604
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -30,42993
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -30,53291
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -30,63961
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -30,74189
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -30,85861
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -30,97202
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -31,10641
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -31,21821
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -31,34042
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -31,43608
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -31,55002
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -31,73322
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -31,88765
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -31,98455
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -32,08631
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -32,18979
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -32,30244
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -32,40053
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -32,50638
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -32,60317
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -32,70567
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -32,82207
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -32,93862
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -33,04348
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -33,13743
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -33,24138
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -33,41965
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -33,5408
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -33,64281
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -33,74316
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -33,84396
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -33,94232
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -34,03679
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -34,16603
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -34,27422
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -34,36581
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -34,46919
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -34,56675
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -34,66466
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -34,78704
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -34,93354
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -35,03844
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -35,14032
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -35,2404
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -35,36683
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -35,48291
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -35,5873
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -35,69074
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -35,79567
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -35,89974
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -35,99629
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -36,10624
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -36,21653
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -36,3196
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -36,46247
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -36,55485
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -36,66625
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -36,77361
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -36,88547
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -36,98315
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -37,07855
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -37,17419
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -37,27224
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -37,39113
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -37,53332
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -37,63319
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -37,73075
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -37,84038
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -37,97811
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -38,10169
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -38,20431
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -38,30126
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -38,402
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -38,50602
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -38,6036
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -38,74029
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -38,8419
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -38,9348
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -39,03544
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -39,12897
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -39,22937
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -39,36337
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -39,54547
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -39,64596
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -39,74691
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -39,8461
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -39,96073
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -40,06531
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -40,16813
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -40,26741
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -40,36958
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -40,47239
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -40,56813
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -40,67111
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -40,78579
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -40,88492
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -41,02087
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -41,12292
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -41,22071
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -41,34781
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -41,47758
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -41,5766
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -41,68162
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -41,7817
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -41,8796
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -41,99619
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -42,11212
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -42,20789
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -42,31627
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -42,42326
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -42,55966
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -42,67292
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -42,77703
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -42,87896
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -42,98715
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -43,09223
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -43,20504
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -43,31653
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -43,44096
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -43,54787
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -43,65149
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -43,75429
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -43,87484
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -43,98085
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -44,11815
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -44,22475
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -44,3292
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -44,43042
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -44,54434
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -44,64541
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -44,7537
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -44,853
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -44,95242
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -45,06521
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -45,16593
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -45,27501
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -45,38158
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -45,50685
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -45,6504
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -45,75236
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -45,85353
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -45,96833
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -46,0733
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -46,16934
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -46,27487
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -46,38127
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -46,47983
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -46,59474
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -46,69657
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -46,79019
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -46,89351
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -47,00643
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -47,15949
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -47,28209
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -47,39379
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -47,51453
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -47,62003
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -47,71517
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -47,82789
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -47,92782
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -48,03325
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -48,13371
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -48,23469
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -48,33522
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -48,46385
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -48,56887
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -48,71655
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -48,81413
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -48,91533
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -49,04744
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -49,15022
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -49,24996
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -49,35539
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -49,46698
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -49,59325
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -49,69492
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -49,8088
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -49,90747
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -50,01098
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -50,10732
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -50,25708
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -50,36364
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -50,47772
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -50,5842
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -50,68679
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -50,78652
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -50,88815
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -50,98898
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -51,09404
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -51,19665
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -51,30614
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -51,40764
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -51,51923
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -51,65781
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -51,81474
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -51,92001
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -52,02083
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -52,13435
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -52,23481
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -52,35712
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -52,46223
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -52,56668
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -52,66643
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -52,76646
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -52,87203
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -52,99062
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -53,10962
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -53,21098
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -53,35272
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -53,44777
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -53,55455
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -47,45479
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: 0
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+
+
+
+Fin de la chute
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:29)
+
+
+
+
+Speed along Y axis: 0
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Mort via le TAG
+UnityEngine.Debug:Log (object)
+Mort:OnTriggerEnter (UnityEngine.Collider) (at Assets/Mort.cs:21)
+
+Mort via le Layer
+UnityEngine.Debug:Log (object)
+Mort:OnTriggerEnter (UnityEngine.Collider) (at Assets/Mort.cs:26)
+
+Speed along Y axis: 0
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: -0,0001696567
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
+
+Speed along Y axis: 0
+UnityEngine.Debug:Log (object)
+Vitesse_Sound:Update () (at Assets/Vitesse_Sound.cs:19)
