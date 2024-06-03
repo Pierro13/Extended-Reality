@@ -17,10 +17,12 @@ public class PlayerGravity : MonoBehaviour
     {
         if (characterController.isGrounded && velocity.y < 0)
         {
-            velocity.y = 0f;
+            velocity.y = 1f;
         }
 
         velocity.y += gravity * Time.deltaTime;
         characterController.Move(velocity * Time.deltaTime);
+
+        // characterController.s;
     }
 }

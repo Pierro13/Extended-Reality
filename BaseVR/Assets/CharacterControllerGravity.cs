@@ -5,6 +5,7 @@ using UnityEngine;
 public class CharacterControllerGravity : MonoBehaviour
 {
     private CharacterController _characterController;
+    private float _gravity = 9.8f; // Adjust the gravity value as needed
 
     void Start()
     {
@@ -15,7 +16,8 @@ public class CharacterControllerGravity : MonoBehaviour
     {
         if (!_characterController.isGrounded)
         {
-            _characterController.SimpleMove(new Vector3());
+            // Apply gravity to the character controller
+            _characterController.Move(Vector3.down * _gravity * Time.deltaTime);
         }
     }
 }
