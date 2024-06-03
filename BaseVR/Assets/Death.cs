@@ -6,7 +6,6 @@ using Unity.XR.CoreUtils;
 public class Death : MonoBehaviour
 {
     public XROrigin xrOrigin;
-    [SerializeField] DynamicMoveProvider moveProvider;
 
     void Start()
     {
@@ -14,25 +13,36 @@ public class Death : MonoBehaviour
         {
             Debug.LogError("Y a pas de XROrigin");
         }
-
-        if (moveProvider == null)
-        {
-            Debug.LogError("Y a pas de DynamicMoveProvider");
-        }
     }
 
     void Update()
     {
+        
+    }
 
-        Debug.Log(moveProvider.moveSpeed);
-
-        if (xrOrigin != null && moveProvider != null)
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("GroundCollision"))
         {
-            if (xrOrigin.transform.position.y < 25)
-            {
-                Debug.Log("Mort");
-                moveProvider.moveSpeed = 0;
-            }
+            Debug.Log("Mort via le TAG");
+        }
+
+        if (collision.gameObject.layer == LayerMask.NameToLayer("GroundOfDeath"))
+        {
+            Debug.Log("Mort via le Layer");
+        }
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("GroundCollision"))
+        {
+            Debug.Log("Mort via le TAG");
+        }
+
+        if(other.gameObject.layer == LayerMask.NameToLayer("GroundOfDeath"))
+        {
+            Debug.Log("Mort via le Layer");
         }
     }
 }
