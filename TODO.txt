@@ -1,0 +1,11 @@
+A faire : 
+
+pendant la chute : 
+	- Camera shaking
+	- Motion blur
+	- Vibration dans les manettes
+	
+au jeu
+	- Start menu (musique / bouton / paramètre)
+	- 
+	
