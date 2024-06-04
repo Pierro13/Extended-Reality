@@ -5,9 +5,18 @@ using UnityEngine.SceneManagement;
 
 public class Mort : MonoBehaviour
 {
+    public AudioClip soundEffect1;
+    public AudioClip soundEffect2;
+    private AudioSource audioSource1;
+    private AudioSource audioSource2;
+
     void Start()
     {
+        audioSource1 = gameObject.AddComponent<AudioSource>();
+        audioSource2 = gameObject.AddComponent<AudioSource>();
         
+        audioSource1.clip = soundEffect1;
+        audioSource2.clip = soundEffect2;
     }
 
     void Update()
@@ -15,18 +24,42 @@ public class Mort : MonoBehaviour
         
     }
 
+    bool isMort = false;
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("GroundCollision"))
         {
-            Debug.Log("Mort via le TAG");
-            SceneManager.LoadScene("GameOver");
+            isMort = true;
         }
 
         if(other.gameObject.layer == LayerMask.NameToLayer("GroundOfDeath"))
         {
-            Debug.Log("Mort via le Layer");
-            SceneManager.LoadScene("GameOver");
+            isMort = true;
         }
+
+        if(isMort)
+        {
+            if (audioSource1 != null && !audioSource1.isPlaying)
+            {
+                audioSource1.Play();
+            }
+
+            if (audioSource2 != null && !audioSource2.isPlaying)
+            {
+                audioSource2.Play();
+            }
+
+            Debug.Log("Mort via le Tag");
+            Debug.Log("Mort via le Layer");
+
+            StartCoroutine(LoadGameOverScene());
+        }
+    }
+
+    private IEnumerator LoadGameOverScene()
+    {
+        yield return new WaitForSeconds(2);
+        SceneManager.LoadScene("GameOver");
     }
 }

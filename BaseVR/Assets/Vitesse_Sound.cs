@@ -16,7 +16,7 @@ public class Vitesse_Sound : MonoBehaviour
     void Update()
     {
         float speedY = characterController.velocity.y;
-        Debug.Log("Speed along Y axis: " + speedY);
+        // Debug.Log("Speed along Y axis: " + speedY);
 
         if(speedY < -1f && !isFalling)
         {
@@ -25,9 +25,12 @@ public class Vitesse_Sound : MonoBehaviour
             FallStart = true;
         }
 
-        if(FallStart && speedY == 0){
+        if(FallStart && speedY < -53){
             Debug.Log("Fin de la chute");
             FallStart = false;
+        }
+
+        if(FallStart && speedY == 0){
             isFalling = false;
         }
 
