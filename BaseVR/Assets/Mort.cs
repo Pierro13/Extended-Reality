@@ -30,7 +30,7 @@ public class Mort : MonoBehaviour
         audioSource3.clip = BackgroundMusic;
 
         audioSource3.loop = true;
-        audioSource3.volume = 0.5f;
+        audioSource3.volume = 0.05f;
         audioSource3.Play();
     }
 
