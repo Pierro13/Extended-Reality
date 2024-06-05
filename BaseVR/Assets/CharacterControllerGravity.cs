@@ -12,6 +12,11 @@ public class CharacterControllerGravity : MonoBehaviour
         _characterController = GetComponent<CharacterController>();
     }
 
+    void Update()
+    {
+        Debug.Log("CharacterController Height: " + _characterController.height);
+    }
+
     void FixedUpdate()
     {
         if (!_characterController.isGrounded)
