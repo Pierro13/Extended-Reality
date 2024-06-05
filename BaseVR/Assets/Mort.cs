@@ -75,8 +75,8 @@ public class Mort : MonoBehaviour
             Debug.Log("Mort via le Tag");
             // Debug.Log("Mort via le Layer");
             
-            transform.position = new Vector3(-171.538559f,21.4302406f,1146.39136f); 
-            transform.rotation = Quaternion.Euler(0f,216.767731f,0f);
+            transform.position = new Vector3(-171.602997f,21.1350002f,1145.90796f); 
+            transform.rotation = Quaternion.Euler(0f,226.446594f,0f);
             audioSource3.Stop();
 
             // StartCoroutine(LoadGameOverScene());
