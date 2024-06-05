@@ -9,20 +9,23 @@ public class Mort : MonoBehaviour
     public AudioClip soundEffect2;
     private AudioSource audioSource1;
     private AudioSource audioSource2;
+    private CameraShake cameraShake;
 
     void Start()
     {
         audioSource1 = gameObject.AddComponent<AudioSource>();
         audioSource2 = gameObject.AddComponent<AudioSource>();
-        
+
+        cameraShake = GetComponent<CameraShake>(); // Assurez-vous que le composant CameraShake est attaché au même GameObject
+
         audioSource1.clip = soundEffect1;
         audioSource2.clip = soundEffect2;
     }
 
     void Update()
     {
-        
     }
+
 
     bool isMort = false;
 
@@ -40,6 +43,11 @@ public class Mort : MonoBehaviour
 
         if(isMort)
         {
+            if (cameraShake != null)
+            {
+                cameraShake.shakecamera();
+            }
+
             if (audioSource1 != null && !audioSource1.isPlaying)
             {
                 audioSource1.Play();
