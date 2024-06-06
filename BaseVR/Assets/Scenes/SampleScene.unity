@@ -9596,7 +9596,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camTransform: {fileID: 296761934}
-  shakeDuration: 1
+  shakeDuration: 10
   shakeAmount: 0.7
   increaseFactor: 0.25
   decreaseFactor: 1
