@@ -31,13 +31,18 @@ public class Mort : MonoBehaviour
 
         audioSource3.loop = true;
         audioSource3.volume = 0.05f;
-        audioSource3.Play();
+        PlayBackgroundMusic();
     }
 
     void Update()
     {
         //Vector3(1.24353027,-2.10899925,0.49206543)
         //Vector3(-171.852432,20.606987,1146.52563)
+    }
+
+    public void PlayBackgroundMusic()
+    {
+        audioSource3.Play();
     }
 
 
@@ -73,19 +78,12 @@ public class Mort : MonoBehaviour
             }
 
             Debug.Log("Mort via le Tag");
-            // Debug.Log("Mort via le Layer");
             
             transform.position = new Vector3(-171.602997f,21.1350002f,1145.90796f); 
             transform.rotation = Quaternion.Euler(0f,226.446594f,0f);
             audioSource3.Stop();
 
-            // StartCoroutine(LoadGameOverScene());
         }
     }
 
-    private IEnumerator LoadGameOverScene()
-    {
-        yield return new WaitForSeconds(2);
-        SceneManager.LoadScene("GameOver");
-    }
 }

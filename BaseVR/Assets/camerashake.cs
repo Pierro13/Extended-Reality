@@ -5,7 +5,7 @@ using UnityEngine;
 public class CameraShake : MonoBehaviour
 {
     public Transform camTransform;
-    public float shakeDuration = 1f;
+    public float shakeDuration = 10f;
     public float shakeAmount = 0.7f;
     public float increaseFactor = 0.08f;
     public float decreaseFactor = 1.0f;
@@ -31,7 +31,7 @@ public class CameraShake : MonoBehaviour
     {
         if (shaketrue)
         {
-            // Debug.Log("Shake ! ! ! !");
+            Debug.Log("Shake !");
 
             if (shakeDuration > 0)
             {
@@ -49,7 +49,6 @@ public class CameraShake : MonoBehaviour
 
     public void shakecamera()
     {
-        // Debug.Log("Shake ! ! ! !");
         shaketrue = true;
     }
 
