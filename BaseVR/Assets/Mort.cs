@@ -30,21 +30,20 @@ public class Mort : MonoBehaviour
         audioSource3.clip = BackgroundMusic;
 
         audioSource3.loop = true;
-        audioSource3.volume = 0.05f;
+        audioSource3.volume = 0.5f;
         PlayBackgroundMusic();
     }
 
     void Update()
     {
-        //Vector3(1.24353027,-2.10899925,0.49206543)
-        //Vector3(-171.852432,20.606987,1146.52563)
+
     }
 
     public void PlayBackgroundMusic()
     {
+        Debug.Log("Démarage de la musique d'ambiance");
         audioSource3.Play();
     }
-
 
     bool isMort = false;
 
@@ -55,17 +54,12 @@ public class Mort : MonoBehaviour
             isMort = true;
         }
 
-        // if(other.gameObject.layer == LayerMask.NameToLayer("GroundOfDeath"))
-        // {
-        //     isMort = true;
-        // }
-
         if(isMort)
         {
-            if (cameraShake != null)
-            {
-                cameraShake.shakecamera();
-            }
+            // if (cameraShake != null)
+            // {
+            //     cameraShake.shakecamera();
+            // }
 
             if (audioSource1 != null && !audioSource1.isPlaying)
             {
@@ -82,7 +76,7 @@ public class Mort : MonoBehaviour
             transform.position = new Vector3(-171.602997f,21.1350002f,1145.90796f); 
             transform.rotation = Quaternion.Euler(0f,226.446594f,0f);
             audioSource3.Stop();
-
+            isMort = false;
         }
     }
 

@@ -9,7 +9,7 @@ public class Vitesse_Sound : MonoBehaviour
     public AudioClip soundEffect;
     private AudioSource audioSource;
     private CameraShake cameraShake;
-    bool isFalling = false;
+    bool canFall = true;
     bool FallStart = false;
     bool FallEnd = false;
     void Start()
@@ -26,16 +26,13 @@ public class Vitesse_Sound : MonoBehaviour
     {
         float speedY = characterController.velocity.y;
 
-        if (speedY < -2f && !isFalling)
+        if (speedY < -3f && speedY > -4f)
         {
-            isFalling = true;
+            canFall = false;
             Debug.Log("Début de la chute");
             FallStart = true;
-
-            if (!FallEnd)
-            {
-                audioSource.Play();
-            }
+            audioSource.Play();
+            Debug.Log("Play du son de chute");
         }
 
         if (FallStart)
@@ -44,25 +41,19 @@ public class Vitesse_Sound : MonoBehaviour
             {
                 Debug.Log("Fin de la chute");
                 FallStart = false;
-                isFalling = false;
+                canFall = true;
                 FallEnd = true;
                 cameraShake.shakeDuration = 0;
                 audioSource.Stop();
             }
-            else if (speedY < 0)
+            else if (speedY < -4f)
             {
-                // Debug.Log("Chute en cours");
+                Debug.Log("Chute en cours");
                 float newShakeAmount = Mathf.Abs(speedY) * cameraShake.increaseFactor * 0.1f;
                 cameraShake.UpdateShakeAmount(newShakeAmount);
                 cameraShake.shakecamera();
-                
                 audioSource.volume += 0.005f;
             }
-        }
-
-        if (FallStart && speedY == 0)
-        {
-            isFalling = false;
         }
     }
 }

@@ -8,21 +8,39 @@ public class ButtonPushTeleport : MonoBehaviour
 {
     public GameObject playerRig;
     public Vector3 teleportLocation;
-    private Mort Mort;
+    //private Sons_et_Camera Sons_et_Camera;
+    public static int compteur = 0;
 
     void Start()
     {
         GetComponent<XRSimpleInteractable>().selectEntered.AddListener(x => TeleportPlayer());
-
-        Mort = GetComponent<Mort>();
     }
+
 
     public void TeleportPlayer()
     {
         if (playerRig != null)
         {
+
+            Debug.Log("1. Compteur = " + compteur);
+
+            if (compteur != 0)
+            {
+                Sons_et_Camera instance = FindObjectOfType<Sons_et_Camera>();
+                if (instance != null)
+                {
+                    instance.PlayBackgroundMusic();
+                }
+                else
+                {
+                    Debug.LogError("Sons_et_Camera is null.");
+                }
+            }
+
+            compteur++;
+            Debug.Log("2. Compteur = " + compteur);
+
             playerRig.transform.position = teleportLocation;
-            Mort.PlayBackgroundMusic();
         }
         else
         {

@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - GroundCollision
+  - "D\xE9but_Chute"
   layers:
   - Default
   - TransparentFX
