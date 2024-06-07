@@ -130,6 +130,7 @@ public class Sons_et_Camera : MonoBehaviour
         {
             Debug.Log("MORT");
             transform.position = new Vector3(-170.800003f,20.2399998f,1146.56897f);
+            transform.rotation = Quaternion.Euler(0, 103.89f, 0);
             isMort = false;
             shaketrue = false;
             audioSource3.Stop();
