@@ -10,6 +10,8 @@ TagManager:
   - plan_de_tempo
   - Valide_Mort
   - Bravo
+  - Choix1
+  - Choix2
   layers:
   - Default
   - TransparentFX

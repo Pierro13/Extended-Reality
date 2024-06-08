@@ -771,7 +771,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &178285440
 Transform:
   m_ObjectHideFlags: 0
@@ -780,8 +780,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 178285439}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.205, y: 0, z: -2.657}
+  m_LocalRotation: {x: -0, y: -0.721982, z: -0, w: 0.6919119}
+  m_LocalPosition: {x: 5.058, y: 0, z: -1.322}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -789,7 +789,7 @@ Transform:
   - {fileID: 439682602}
   - {fileID: 295378697}
   m_Father: {fileID: 1445956931}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -92.437, z: 0}
 --- !u!1 &185149735
 GameObject:
   m_ObjectHideFlags: 0
@@ -1518,6 +1518,14 @@ PrefabInstance:
     - target: {fileID: 1518366863219760, guid: 3d35e81bdc5955041be098ef22e82a3b, type: 3}
       propertyPath: m_Name
       value: Magic fire pro green
+      objectReference: {fileID: 0}
+    - target: {fileID: 1518366863219760, guid: 3d35e81bdc5955041be098ef22e82a3b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1518366863219760, guid: 3d35e81bdc5955041be098ef22e82a3b, type: 3}
+      propertyPath: m_TagString
+      value: Choix2
       objectReference: {fileID: 0}
     - target: {fileID: 4378435534538936, guid: 3d35e81bdc5955041be098ef22e82a3b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4354,11 +4362,11 @@ GameObject:
   - component: {fileID: 584928680}
   m_Layer: 0
   m_Name: Echape_mort
-  m_TagString: Untagged
+  m_TagString: Choix2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &584928680
 Transform:
   m_ObjectHideFlags: 0
@@ -5056,6 +5064,14 @@ PrefabInstance:
     - target: {fileID: 1975959190090480, guid: eca000ab44c908d4dab395f654753038, type: 3}
       propertyPath: m_Name
       value: Magic fire pro red
+      objectReference: {fileID: 0}
+    - target: {fileID: 1975959190090480, guid: eca000ab44c908d4dab395f654753038, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1975959190090480, guid: eca000ab44c908d4dab395f654753038, type: 3}
+      propertyPath: m_TagString
+      value: Choix1
       objectReference: {fileID: 0}
     - target: {fileID: 4335282639064450, guid: eca000ab44c908d4dab395f654753038, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7560,11 +7576,11 @@ GameObject:
   - component: {fileID: 1087980505}
   m_Layer: 0
   m_Name: Valide_Mort
-  m_TagString: Untagged
+  m_TagString: Choix1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1087980505
 Transform:
   m_ObjectHideFlags: 0

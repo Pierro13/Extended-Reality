@@ -51,8 +51,6 @@ public class Sons_et_Camera : MonoBehaviour
         audioSource2.clip = CrashsoundEffect2;
         audioSource3.clip = VentSoundEffect;
         
-
-        
         PlayBackgroundMusic();
 
         characterController = GetComponent<CharacterController>();
@@ -122,16 +120,18 @@ public class Sons_et_Camera : MonoBehaviour
 
         if (other.CompareTag("Temp_Chute"))
         {
-            GameObject Btn1 = GameObject.FindGameObjectWithTag("");
-            if (Btn1 != null)
+            audioSource3.Stop();
+
+            GameObject Chx1 = GameObject.FindGameObjectWithTag("Choix1");
+            if (Chx1 != null)
             {
-                Btn1.SetActive(true);
+                Chx1.SetActive(true);
             }
 
-            GameObject Btn2 = GameObject.FindGameObjectWithTag("");
-            if (Btn2 != null)
+            GameObject Chx2 = GameObject.FindGameObjectWithTag("Choix2");
+            if (Chx2 != null)
             {
-                Btn2.SetActive(true);
+                Chx2.SetActive(true);
             }
         }
 
@@ -147,7 +147,6 @@ public class Sons_et_Camera : MonoBehaviour
             transform.rotation = Quaternion.Euler(0, 103.89f, 0);
             isMort = false;
             shaketrue = false;
-            audioSource3.Stop();
             audioSource4.Stop();
             audioSource1.Play();
             audioSource2.Play();

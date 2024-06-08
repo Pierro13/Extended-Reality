@@ -19,11 +19,17 @@ public class ButtonPushTeleport : MonoBehaviour
     public void TeleportPlayer()
     {
 
-        // GameObject bravo = GameObject.FindGameObjectWithTag("Bravo");
-        // if (bravo != null)
-        // {
-        //     bravo.SetActive(false);
-        // }
+        GameObject bravo = GameObject.FindGameObjectWithTag("Bravo");
+        if (bravo != null)
+        {
+            bravo.SetActive(false);
+        }
+
+        GameObject plane = GameObject.FindGameObjectWithTag("plan_de_tempo");
+        if (plane != null)
+        {
+            plane.SetActive(true);
+        }
 
         if (playerRig != null)
         {
