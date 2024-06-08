@@ -8,7 +8,6 @@ public class ButtonPushTeleport : MonoBehaviour
 {
     public GameObject playerRig;
     public Vector3 teleportLocation;
-    //private Sons_et_Camera Sons_et_Camera;
     public static int compteur = 0;
 
     void Start()
@@ -19,6 +18,13 @@ public class ButtonPushTeleport : MonoBehaviour
 
     public void TeleportPlayer()
     {
+
+        // GameObject bravo = GameObject.FindGameObjectWithTag("Bravo");
+        // if (bravo != null)
+        // {
+        //     bravo.SetActive(false);
+        // }
+
         if (playerRig != null)
         {
 

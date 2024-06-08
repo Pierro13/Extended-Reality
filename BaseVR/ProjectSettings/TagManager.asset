@@ -6,6 +6,10 @@ TagManager:
   tags:
   - GroundCollision
   - "D\xE9but_Chute"
+  - Temp_Chute
+  - plan_de_tempo
+  - Valide_Mort
+  - Bravo
   layers:
   - Default
   - TransparentFX

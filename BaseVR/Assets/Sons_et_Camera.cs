@@ -16,7 +16,6 @@ public class Sons_et_Camera : MonoBehaviour
     public AudioClip BackgroundMusic;
     private AudioSource audioSource4;
 
-
     private CharacterController characterController;
     private CameraShake cameraShake;
     public Transform camTransform;
@@ -74,24 +73,24 @@ public class Sons_et_Camera : MonoBehaviour
         // float speedY = characterController.velocity.y;
         // shakeAmount = Mathf.Abs(speedY) * cameraShake.increaseFactor * 0.1f;
         
-        if (shaketrue)
-        {
-            Debug.Log("Shake !");
-            Debug.Log("shakeDuration : " + shakeDuration);
-            Debug.Log("shakeAmount : " + shakeAmount);
-            if (shakeDuration > 0)
-            {
-                Debug.Log("Shake !");
-                camTransform.localPosition = originalPos + Random.insideUnitSphere * shakeAmount * 50f;
-                shakeDuration -= Time.deltaTime * decreaseFactor;
-            }
-            else
-            {
-                shakeDuration = 1f;
-                camTransform.localPosition = originalPos;
-                shaketrue = false;
-            }
-        }
+        // if (shaketrue)
+        // {
+        //     Debug.Log("Shake !");
+        //     Debug.Log("shakeDuration : " + shakeDuration);
+        //     Debug.Log("shakeAmount : " + shakeAmount);
+        //     if (shakeDuration > 0)
+        //     {
+        //         Debug.Log("Shake !");
+        //         camTransform.localPosition = originalPos + Random.insideUnitSphere * shakeAmount * 50f;
+        //         shakeDuration -= Time.deltaTime * decreaseFactor;
+        //     }
+        //     else
+        //     {
+        //         shakeDuration = 1f;
+        //         camTransform.localPosition = originalPos;
+        //         shaketrue = false;
+        //     }
+        // }
     }
     void Awake()
     {
@@ -119,6 +118,21 @@ public class Sons_et_Camera : MonoBehaviour
             isInChute = false;
             audioSource3.Play();
             shaketrue = true;
+        }
+
+        if (other.CompareTag("Temp_Chute"))
+        {
+            GameObject Btn1 = GameObject.FindGameObjectWithTag("");
+            if (Btn1 != null)
+            {
+                Btn1.SetActive(true);
+            }
+
+            GameObject Btn2 = GameObject.FindGameObjectWithTag("");
+            if (Btn2 != null)
+            {
+                Btn2.SetActive(true);
+            }
         }
 
         if (other.CompareTag("GroundCollision"))
