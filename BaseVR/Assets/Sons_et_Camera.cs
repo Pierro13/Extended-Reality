@@ -127,8 +127,6 @@ public class Sons_et_Camera : MonoBehaviour
         {
             Debug.Log("Temp_Chute");
 
-            audioSource3.Stop();
-
             if (Chx1_1 != null)
             {
                 Chx1_1.SetActive(true);
@@ -171,6 +169,7 @@ public class Sons_et_Camera : MonoBehaviour
             transform.rotation = Quaternion.Euler(0, 103.89f, 0);
             isMort = false;
             shaketrue = false;
+            audioSource3.Stop();
             audioSource4.Stop();
             audioSource1.Play();
             audioSource2.Play();
