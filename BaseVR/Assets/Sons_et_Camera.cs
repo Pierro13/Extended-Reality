@@ -31,6 +31,11 @@ public class Sons_et_Camera : MonoBehaviour
 
     public Sons_et_Camera instance;
 
+    [SerializeField] private GameObject Chx1_1;
+    [SerializeField] private GameObject Chx2_1;
+    [SerializeField] private GameObject Sol_de_Stop;
+
+
     void Start()
     {
         if (instance == null)
@@ -120,18 +125,37 @@ public class Sons_et_Camera : MonoBehaviour
 
         if (other.CompareTag("Temp_Chute"))
         {
+            Debug.Log("Temp_Chute");
+
             audioSource3.Stop();
 
-            GameObject Chx1 = GameObject.FindGameObjectWithTag("Choix1");
-            if (Chx1 != null)
+            if (Chx1_1 != null)
             {
-                Chx1.SetActive(true);
+                Chx1_1.SetActive(true);
+                Debug.Log("Chx1 is active");
+            } 
+            else 
+            {
+                Debug.Log("Chx1 is null");
             }
 
-            GameObject Chx2 = GameObject.FindGameObjectWithTag("Choix2");
-            if (Chx2 != null)
+            if (Chx2_1 != null)
             {
-                Chx2.SetActive(true);
+                Chx2_1.SetActive(true);
+                Debug.Log("Chx2 is active");
+            } 
+            else 
+            {
+                Debug.Log("Chx2 is null");
+            }
+
+            if (Sol_de_Stop != null)
+            {
+                Sol_de_Stop.SetActive(true);
+            } 
+            else 
+            {
+                Debug.Log("Sol_de_Stop is null");
             }
         }
 

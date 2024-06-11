@@ -10,6 +10,10 @@ public class ButtonPushTeleport : MonoBehaviour
     public Vector3 teleportLocation;
     public static int compteur = 0;
 
+    [SerializeField] private GameObject Chx1_1;
+    [SerializeField] private GameObject Chx2_1;
+    [SerializeField] private GameObject Sol_de_Stop;
+
     void Start()
     {
         GetComponent<XRSimpleInteractable>().selectEntered.AddListener(x => TeleportPlayer());
@@ -18,6 +22,34 @@ public class ButtonPushTeleport : MonoBehaviour
 
     public void TeleportPlayer()
     {
+
+            if (Chx1_1 != null)
+            {
+                Chx1_1.SetActive(false);
+            } 
+            else 
+            {
+                Debug.Log("Chx1 is null");
+            }
+
+            if (Chx2_1 != null)
+            {
+                Chx2_1.SetActive(false);
+            } 
+            else 
+            {
+                Debug.Log("Chx2 is null");
+            }
+
+            if (Sol_de_Stop != null)
+            {
+                Sol_de_Stop.SetActive(true);
+            } 
+            else 
+            {
+                Debug.Log("Sol_de_Stop is null");
+            }
+
 
         GameObject bravo = GameObject.FindGameObjectWithTag("Bravo");
         if (bravo != null)
